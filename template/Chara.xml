@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>chara010400</dataName>
+  <formatVersion>10000</formatVersion>
+  <resourceVersion>
+    <id>0</id>
+    <str>10000</str>
+    <data />
+  </resourceVersion>
+  <releaseTagName>
+    <id>6</id>
+    <str>v1 1.30.00</str>
+    <data />
+  </releaseTagName>
+  <netOpenName>
+    <id>612</id>
+    <str>v1_30 10_3</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>10400</id>
+    <str>Waifu</str>
+    <data />
+  </name>
+  <rightsInfoName>
+    <id>0</id>
+    <str>Last Origin</str>
+    <data />
+  </rightsInfoName>
+  <explainText />
+  <sortName>Waifu</sortName>
+  <works>
+    <id>9927</id>
+    <str>Last Origin</str>
+    <data />
+  </works>
+  <illustratorName>
+    <id>50</id>
+    <str />
+    <data />
+  </illustratorName>
+  <defaultHave>true</defaultHave>
+  <firstSkill>
+    <id>110000</id>
+    <str>夜禍</str>
+    <data />
+  </firstSkill>
+  <rareType>0</rareType>
+  <normCondition>
+    <resourceVersion>
+      <id>0</id>
+      <str />
+      <data />
+    </resourceVersion>
+    <conditions />
+  </normCondition>
+  <defaultImages>
+    <id>10400</id>
+    <str>chara10400_00</str>
+    <data />
+  </defaultImages>
+  <addImages1>
+    <resourceVersion>
+      <id>0</id>
+      <str />
+      <data />
+    </resourceVersion>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+  </addImages1>
+  <addImages2>
+    <resourceVersion>
+      <id>0</id>
+      <str />
+      <data />
+    </resourceVersion>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+  </addImages2>
+  <addImages3>
+    <resourceVersion>
+      <id>0</id>
+      <str />
+      <data />
+    </resourceVersion>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+  </addImages3>
+  <addImages4>
+    <resourceVersion>
+      <id>0</id>
+      <str />
+      <data />
+    </resourceVersion>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+  </addImages4>
+  <addImages5>
+    <resourceVersion>
+      <id>0</id>
+      <str />
+      <data />
+    </resourceVersion>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+  </addImages5>
+  <addImages6>
+    <resourceVersion>
+      <id>0</id>
+      <str />
+      <data />
+    </resourceVersion>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+  </addImages6>
+  <addImages7>
+    <resourceVersion>
+      <id>0</id>
+      <str />
+      <data />
+    </resourceVersion>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+  </addImages7>
+  <addImages8>
+    <resourceVersion>
+      <id>0</id>
+      <str />
+      <data />
+    </resourceVersion>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+  </addImages8>
+  <addImages9>
+    <resourceVersion>
+      <id>0</id>
+      <str />
+      <data />
+    </resourceVersion>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+  </addImages9>
+  <priority>0</priority>
+  <ranks>
+    <CharaRankData>
+      <resourceVersion>
+        <id>0</id>
+        <str />
+        <data />
+      </resourceVersion>
+      <index>5</index>
+      <type>1</type>
+      <skill>
+        <resourceVersion>
+          <id>0</id>
+          <str />
+          <data />
+        </resourceVersion>
+        <skill>
+          <id>110000</id>
+          <str>夜禍</str>
+          <data />
+        </skill>
+      </skill>
+      <text>
+        <resourceVersion>
+          <id>0</id>
+          <str />
+          <data />
+        </resourceVersion>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <resourceVersion>
+        <id>0</id>
+        <str />
+        <data />
+      </resourceVersion>
+      <index>10</index>
+      <type>1</type>
+      <skill>
+        <resourceVersion>
+          <id>0</id>
+          <str />
+          <data />
+        </resourceVersion>
+        <skill>
+          <id>110000</id>
+          <str>夜禍</str>
+          <data />
+        </skill>
+      </skill>
+      <text>
+        <resourceVersion>
+          <id>0</id>
+          <str />
+          <data />
+        </resourceVersion>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <resourceVersion>
+        <id>0</id>
+        <str />
+        <data />
+      </resourceVersion>
+      <index>15</index>
+      <type>1</type>
+      <skill>
+        <resourceVersion>
+          <id>0</id>
+          <str />
+          <data />
+        </resourceVersion>
+        <skill>
+          <id>110000</id>
+          <str>夜禍</str>
+          <data />
+        </skill>
+      </skill>
+      <text>
+        <resourceVersion>
+          <id>0</id>
+          <str />
+          <data />
+        </resourceVersion>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <resourceVersion>
+        <id>0</id>
+        <str />
+        <data />
+      </resourceVersion>
+      <index>25</index>
+      <type>1</type>
+      <skill>
+        <resourceVersion>
+          <id>0</id>
+          <str />
+          <data />
+        </resourceVersion>
+        <skill>
+          <id>101060</id>
+          <str>限界突破の証</str>
+          <data />
+        </skill>
+      </skill>
+      <text>
+        <resourceVersion>
+          <id>0</id>
+          <str />
+          <data />
+        </resourceVersion>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+  </ranks>
+</CharaData>

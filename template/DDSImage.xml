@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DDSImageData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>ddsImage010400</dataName>
+  <formatVersion>10000</formatVersion>
+  <resourceVersion>
+    <id>0</id>
+    <str>10000</str>
+    <data />
+  </resourceVersion>
+  <name>
+    <id>10400</id>
+    <str>chara10400_00</str>
+    <data />
+  </name>
+  <ddsFile0>
+    <path>CHU_UI_Character_10400_00_00.dds</path>
+  </ddsFile0>
+  <ddsFile1>
+    <path>CHU_UI_Character_10400_00_01.dds</path>
+  </ddsFile1>
+  <ddsFile2>
+    <path>CHU_UI_Character_10400_00_02.dds</path>
+  </ddsFile2>
+</DDSImageData>

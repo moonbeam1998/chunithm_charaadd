@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializeSortData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>chara</dataName>
+  <formatVersion>10000</formatVersion>
+  <resourceVersion>
+    <id>0</id>
+    <str>10000</str>
+    <data />
+  </resourceVersion>
+  <SortList>
+    <StringID>
+      <id>2</id>
+      <str>魔法少女まどか☆マギカ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>3</id>
+      <str>化物語</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>8</id>
+      <str>ペルソナ4 ダンシング・オールナイト</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>5</id>
+      <str>STEINS;GATE</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>6</id>
+      <str>蒼き鋼のアルペジオ ‐アルス・ノヴァ‐</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9</id>
+      <str>冴えない彼女の育てかた</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>10</id>
+      <str>SHOW BY ROCK!!</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>11</id>
+      <str>カゲロウプロジェクト</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>12</id>
+      <str>WHITE ALBUM2</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>13</id>
+      <str>ミカグラ学園組曲</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>15</id>
+      <str>AIR</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>16</id>
+      <str>あの日見た花の名前を僕達はまだ知らない。</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>41</id>
+      <str>バーチャル・シンガー</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>21</id>
+      <str>PRIUS! IMPOSSIBLE GIRLS</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>17</id>
+      <str>ノーゲーム・ノーライフ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>18</id>
+      <str>干物妹！うまるちゃん</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>19</id>
+      <str>僕は友達が少ないNEXT</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>23</id>
+      <str>ご注文はうさぎですか？？</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>24</id>
+      <str>チェインクロニクル ～ヘクセイタスの閃～</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>25</id>
+      <str>ばくおん!!</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>26</id>
+      <str>きんいろモザイク</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>27</id>
+      <str>Wake Up, Girls！</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>28</id>
+      <str>Tokyo 7th シスターズ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>29</id>
+      <str>三者三葉</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>30</id>
+      <str>Angel Beats!</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>31</id>
+      <str>君の名は。</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>32</id>
+      <str>Re:ゼロから始める異世界生活</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>33</id>
+      <str>NEW GAME!</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>34</id>
+      <str>結城友奈は勇者である</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>35</id>
+      <str>とらドラ！</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>36</id>
+      <str>Hi☆sCoool! セハガール</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>37</id>
+      <str>PHANTASY STAR ONLINE 2</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>38</id>
+      <str>うたわれるもの 偽りの仮面</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>42</id>
+      <str>うたわれるもの 二人の白皇</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>39</id>
+      <str>戦姫絶唱シンフォギアＧ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>40</id>
+      <str>京急電鉄</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>43</id>
+      <str>エロマンガ先生</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>44</id>
+      <str>ノラと皇女と野良猫ハート</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>45</id>
+      <str>#コンパス</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>46</id>
+      <str>温泉むすめ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>47</id>
+      <str>天使の3P！</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>48</id>
+      <str>ツインエンジェルBREAK</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>49</id>
+      <str>ガヴリールドロップアウト</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>55</id>
+      <str>新甲虫王者ムシキング</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>51</id>
+      <str>Wonderland Wars</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>52</id>
+      <str>この素晴らしい世界に祝福を！2</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>53</id>
+      <str>ひなこのーと</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>54</id>
+      <str>てーきゅう</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>56</id>
+      <str>とある科学の超電磁砲S</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>57</id>
+      <str>ポプテピピック</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>58</id>
+      <str>りゅうおうのおしごと！</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>59</id>
+      <str>ペルソナ5 ダンシング・スターナイト</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>60</id>
+      <str>ペルソナ3 ダンシング・ムーンナイト</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>61</id>
+      <str>宇宙よりも遠い場所</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>62</id>
+      <str>咲-Saki-阿知賀編 episode of side-A</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>63</id>
+      <str>オーバーロード</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>64</id>
+      <str>アトリエ ～アーランドの錬金術士～</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>65</id>
+      <str>グランブルーファンタジー</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>66</id>
+      <str>ゆるキャン△</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>67</id>
+      <str>Arcaea</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>68</id>
+      <str>龍が如く</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>69</id>
+      <str>ヒナまつり</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>70</id>
+      <str>はるかなレシーブ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>71</id>
+      <str>プリンセス・プリンシパル</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>72</id>
+      <str>魔法少女リリカルなのは Detonation</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>73</id>
+      <str>異世界食堂</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>74</id>
+      <str>魔法科高校の劣等生</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>75</id>
+      <str>SSSS.GRIDMAN</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>76</id>
+      <str>結月ゆかり・紲星あかり・琴葉 茜・葵</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>77</id>
+      <str>ネコぱら</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>78</id>
+      <str>賭ケグルイ××</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>79</id>
+      <str>私に天使が舞い降りた！</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>80</id>
+      <str>ストライク・ザ・ブラッド</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>81</id>
+      <str>ゾンビランドサガ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>82</id>
+      <str>ゴブリンスレイヤー</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>83</id>
+      <str>緋弾のアリアAA</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>84</id>
+      <str>ダンジョンに出会いを求めるのは間違っているだろうかⅡ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>85</id>
+      <str>ダンベル何キロ持てる？</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>86</id>
+      <str>白猫プロジェクト</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>87</id>
+      <str>アイカツオンパレード！</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>88</id>
+      <str>八月のシンデレラナイン</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>90</id>
+      <str>新サクラ大戦</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>91</id>
+      <str>チャージマン研！</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>92</id>
+      <str>世話やきキツネの仙狐さん</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>89</id>
+      <str>WIXOSS</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>1</id>
+      <str>東方Project</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>14</id>
+      <str>イロドリミドリ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>22</id>
+      <str>言ノ葉Project</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>93</id>
+      <str>オンゲキ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9000</id>
+      <str>CHUNITHM</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9010</id>
+      <str>CHUNITHM AIR</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9020</id>
+      <str>CHUNITHM STAR</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9030</id>
+      <str>CHUNITHM AMAZON</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9040</id>
+      <str>CHUNITHM CRYSTAL</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9050</id>
+      <str>CHUNITHM PARADISE</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9990</id>
+      <str>カードメイカー</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9999</id>
+      <str>全キャラクター</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>0</id>
+      <str>ORIGINAL</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>20</id>
+      <str>初音ミク</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9900</id>
+      <str>sola</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>8888</id>
+      <str>じゃんたま</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9998</id>
+      <str>arcaea</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9910</id>
+      <str>アークナイツ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9912</id>
+      <str>SOUND VOLTEX</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9913</id>
+      <str> オンゲキ </str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9914</id>
+      <str>$hitp0st</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9915</id>
+      <str> ガルパ </str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9920</id>
+      <str>ロックマン X DiVE</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9921</id>
+      <str>東亰ザナドゥeX+</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9922</id>
+      <str>女装神社</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9923</id>
+      <str>女装神話</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9924</id>
+      <str>アズールレーン -CROSSWAVE-</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9925</id>
+      <str>ドーナドーナ</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9926</id>
+      <str>D4DJ Groovy Mix</str>
+      <data />
+    </StringID>
+    <StringID>
+      <id>9927</id>
+      <str>Last Origin</str>
+      <data />
+    </StringID>
+  </SortList>
+</SerializeSortData>
