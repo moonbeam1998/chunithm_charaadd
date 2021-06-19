@@ -3,6 +3,10 @@ wand:
 <br>
 `pip3 install wand`
 <br>
+PIL:
+<br>
+`pip3 install pillow`
+<br>
 in win10 you need ImageMagick:
 <br>
 [ImageMagick-7.1.0-0-Q16-HDRI-x64-dll.exe](https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.0-0-Q16-HDRI-x64-dll.exe)
